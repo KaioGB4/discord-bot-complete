@@ -1,5 +1,5 @@
 require("colors");
 
 module.exports = (client) => {
-    console.log(`[Info] ${client.user.username} está pronto!`.blue);
+  console.log(`[INFO] ${client.user.username} está online!`.cyan);
 };

@@ -1,14 +1,14 @@
 {
-    "embedColorSucces": "#00D26A",
-    "embedColorWarning": "FFCC4D",
-    "embedColorError": "FB2F61",
-  
-    "embedErrorMessage": "Um erro aconteceu",
-  
-    "commandDevOnly": "Esse comando só pode ser executado por ADM's.",
-    "commandTestMode": "Esse comando esta em testes e não pode ser executado no momento por membros padrões.",
-    "commandPremiumOnly": "Esse comando só pode ser utilizado por membros Premium",
-  
-    "userNoPermissions": "Você não possui permissão para utilizar esse comando.",
-    "botNoPermissions": "Eu não possuo permissões para isso."
-  }
+  "embedColorSucces": "#00D26A",
+  "embedColorWarning": "FFCC4D",
+  "embedColorError": "#FBF61",
+
+  "embedErrorMessage": "Ocorreu um erro!",
+
+  "commandDevOnly": "Esse commando só pode ser utilizado por desenvolvedores.",
+  "commandTestMode": "Isso tá em desenvolvimento e ainda não pode ser utilizado.",
+  "commandPremiumOnly": "Esse commando só pode ser utilizado por Premium.",
+
+  "userNoPermissions": "Você não tem permissão para isso.",
+  "botNoPermissions": "Eu não tenho permissão pra isso."
+}
